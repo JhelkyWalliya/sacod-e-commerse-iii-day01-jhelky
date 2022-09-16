@@ -3,7 +3,13 @@ SaCode_day01
 
 ##cli commands
 
-perinta mebuka folder
+perinta mebuka folder dengan ``CD``
 ```
 cd nama folder
 ```
+
+
+perinta membuat folder baru dengan `` MKDIR``
+
+```
+mkdir nama_folder
